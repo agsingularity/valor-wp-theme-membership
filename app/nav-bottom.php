@@ -1,0 +1,1 @@
+<section class="page-title-section style-two" style="background-image: url(<?php echo get_template_directory_uri() . '/assets/images/background/4b.jpg'; ?>); padding: 120px 0px !important;"></section>
